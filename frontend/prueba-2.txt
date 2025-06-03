@@ -1,1 +1,15 @@
 prueba2
+
+
+1) creamos repo en la pagina
+2) le pusimos un nombre
+3) abrimos la temrinal en nuestra compu
+4) hicimos git clone url-del-repo
+
+5) programmos un monotn
+
+
+6) hicimos git status para ver si nos detecta los archivos
+7) hicimos git add . para agregar todo
+8) hicimos git commit para preparar el mensaje de subida
+9) hicimos git push para subir los cambios
